@@ -13,3 +13,4 @@ st.subheader("Introducing to our app")
 st.write("""This is text
 Bla bla bla""")
 st.write(df)
+st.line_chart(df)
