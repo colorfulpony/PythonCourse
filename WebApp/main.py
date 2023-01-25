@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Our first streamlit app")
-st.subheader("Introducing to our app")
-st.write("""This is text
-Bla bla bla""")
+st.title("Grisha")
+st.subheader("ГРІША ЛОХ")
+st.write("""ГРІША ЛОХ
+ГРІША ЛОХ""")
